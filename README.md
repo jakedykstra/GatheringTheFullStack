@@ -1,6 +1,6 @@
 ## Guide To Gathering The Skills Neccessary To Be A Professional Full-Stack Javascript Developer(WIP)
 
-"This guide is for those on the Full-Stack developer track that want to understand all the neccessary skills needed to **become a professional**. I will document the most important skills and how to begin implementing them. Look through the folders section for a playground for each, as well as individual readme's for quick start."
+"This guide is for beginner developer(year 1) that are on the Full-Stack developer track and want to understand all the neccessary skills needed to **become a professional**. I will document the most important pieces to evolving as a developer and how to begin implementing them. **NOTE: THIS GUIDE IS FOR BEGINNERS. MY GOALS ARE TO TAKE OVERCOMPLICATED IDEAS AND DUMB THEM DOWN. USING SIMPLIFICATION TO BUILD INITIAL UNDERSTANDINGS**. Look through the folders section for a playground for each, as well as individual readme's for quick start."
 
 > #### _Found it useful? Want more updates?_ [**Show your support by giving a :star:**](https://github.com/piotrwitek/react-redux-typescript-patterns/stargazers) 
 
@@ -61,10 +61,14 @@ It's easy to say harder to do. My advice, start with the basics. Learn JavaScrip
 - Clean Code
   - Implement strong naming and follow design patterns
 - Front-End
-  - Understand the Basics - HTML5, CSS3, JavaScript
-  - Know how to implement SPA - React, ReactRouter
+  - Understand the Basics to move forward - HTML5, CSS3, JavaScript
+  - Know how to implement SPA (Single Page Application) - React, ReactRouter
+    - With React you can build better, more responsive applications on the front-end.
+    - You need to route your page within react
   - Use state management - Redux
+    - With React, unless you want to link every component together to pass data, you'll need a store to pull, update, and add data.
   - Send AJAX requests - GraphQL/ApolloClient
+    - There will be data needed from our database. Use GraphQL to get the exact data you need. Apollo helps us use GraphQL on the front-end
   - Use Static Type - TypeScript
   - Implement a precompiler for styling - SCSS
   - Unit Test - Jest with Enzyme
