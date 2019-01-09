@@ -68,12 +68,14 @@ It's easy to say harder to do. My advice, start with the basics. Learn JavaScrip
   - Use Static Type - TypeScript
   - Implement a precompiler for styling - SCSS
   - Unit Test - Jest with Enzyme
+  - Handle 0Auth - NPM Packages (react-facebook-login/react-google-login)
   - Use a linter - TSLint
 - Back-End
   - Know Node
   - Know your database. Choose SQL - MySQL/Sequelize
   - Pick a framework - Express
   - Handle API's - GraphQL
+  - Authorization - PassportJS
   - Have a checker - TravisCI
 - Deployment
   - Contain your application - Docker
@@ -85,7 +87,7 @@ It's easy to say harder to do. My advice, start with the basics. Learn JavaScrip
 
 Thanks goes to these wonderful people 
 
-## ReadMe Structure motivated by Piotr Witek <piotrek.witek@gmail.com> (http://piotrwitek.github.io). Thanks!
+#### ReadMe Structure motivated by Piotr Witek <piotrek.witek@gmail.com> (http://piotrwitek.github.io). Thanks!
 
 ---
 
