@@ -54,6 +54,29 @@ If you're planning to contribute please make sure to read the contributing guide
 
 ---
 
+## Where to Start
+It's easy to say harder to do. My advice, start with the basics. Learn JavaScript/CSS/HTML front and back and begin work on projects.
+
+## What it takes (This is what I'm reviewing. It's a specific stack I've chosen to use. For rationale please refer here.
+- Clean Code
+  - Implement strong naming and follow design patterns
+- Front-End
+  - Understand the Basics - HTML5, CSS3, JavaScript
+  - Know how to implement SPA - React, ReactRouter
+  - Use state management - Redux
+  - Send AJAX requests - GraphQL/ApolloClient
+  - Use Static Type - TypeScript
+  - Implement a precompiler for styling - SCSS
+  - Unit Test - Jest with Enzyme
+  - Use a linter - TSLint
+- Back-End
+  - Know Node
+  - Know your database. Choose SQL - MySQL/Sequelize
+  - Pick a framework - Express
+  - Handle API's - GraphQL
+  - Have a checker - TravisCI
+- Deployment
+  - Contain your application - Docker
 
 ## Tutorials
 > Curated list of relevant in-depth tutorials
